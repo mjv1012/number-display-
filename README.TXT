@@ -15,7 +15,7 @@ call the object's methods, such as increment and setValue.
 
 
 Q1:
-Q2:
-Q3:
-Q4:
+Q2: If you create a new class.
+Q3: If you add, enroll or delete new objects. 
+Q4: 
 Q8: 
