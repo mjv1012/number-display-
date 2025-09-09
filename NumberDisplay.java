@@ -41,7 +41,7 @@ public class NumberDisplay
     public String getDisplayValue()
     {
         if(value < 10) {
-            return "0" + value;
+            return "" + value; 
         }
         else {
             return "" + value;
@@ -54,7 +54,7 @@ public class NumberDisplay
      */
     public void setValue(int replacementValue)
     {
-        if((replacementValue >= 0) && (replacementValue < limit)) {
+        if((replacementValue >= 0) || (replacementValue < limit)) {
             value = replacementValue;
         }
     }
