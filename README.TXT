@@ -17,5 +17,5 @@ call the object's methods, such as increment and setValue.
 Q1:
 Q2: If you create a new class.
 Q3: If you add, enroll or delete new objects. 
-Q4: 
-Q8: 
+Q4: private Instructor tutor
+Q8: As I did both method calls the stored value resulted in no change 
