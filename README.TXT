@@ -12,3 +12,10 @@ It is discussed in chapter 3.
 To use this project, create an instance of class NumberDisplay. Then inspect this 
 instance and leave the inspector window open. With the inspector window open, 
 call the object's methods, such as increment and setValue.
+
+
+Q1:
+Q2:
+Q3:
+Q4:
+Q8: 
