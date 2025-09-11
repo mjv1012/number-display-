@@ -28,7 +28,10 @@ Q17: (a != b)
 Q18: Once I entered a limit of 1000 and then I set a call to setValue and entered a 3 digit value, it returned the same 3 digit value in getDisplayValue.
 Q19: There is no difference in the result of changing return value +""; in the getDisplayValue method.
 Q20: No, this didn't surprise me as I already knew what the result was going to be. The results are like that because you read it from left to right. Meaning that in the first code you use addition (9+3) and then use the string (cat) and add it to the value.
-Q21:
+Q21: The clock has been set to the time "00:00"
+Q23: You would need to click it 100 times. To set it at 1:00 you would need to open the editor of the ClockDisplay and set it to that given time.
+Q24: NumberDisplay digit;
+digit = new NumberDisplay(10);
 
 
 
