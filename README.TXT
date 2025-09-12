@@ -32,7 +32,9 @@ Q21: The clock has been set to the time "00:00"
 Q23: You would need to click it 100 times. To set it at 1:00 you would need to open the editor of the ClockDisplay and set it to that given time.
 Q24: NumberDisplay digit;
 digit = new NumberDisplay(10);
-Q25: Rectangle = new int rectangle();
+Q25: Rectangle rectangle = new rectangle();
+Q26: It displays and sets the time in hours and minutes.
+Q27:
 
 
 
