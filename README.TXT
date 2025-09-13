@@ -37,10 +37,12 @@ Q26: It displays and sets the time in hours and minutes.
 Q27: Similarities is that they both have the same field names and the differences is that in the UpdateDisplay there is no = and there is no value compared to the ClockDisplay source code (ex. 24 hours/ 60 minutes).
 Q28: There is no call to updateDisplay because it's only going to update when getTime is called.
 Q29: Squares, Circles, and Triangles
+Q30: ChangeSize, moveHorizontal, moveVertical, and MakeVisible are all external methods of Picture on the Triabgle object called roof.
 Q31: Yes
 Q32: 2
 Q33: If you use the modulo operator with negative numbers no error will occur. It will just give you another negative number. Ex.(-10 % -3) = -1 (int) 
 Q34: The only possible results of that expression are the numbers below 5 and -5.
+Q37: I would say option 1 is better because it's way easier to just display the time without converting like the second option.
 
 
 
